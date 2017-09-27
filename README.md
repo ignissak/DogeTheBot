@@ -1,5 +1,6 @@
 # DogeTheBot Master
 **Doge** is discord bot for your servers written in **Discord.js**.
+<iframe src="https://discordapp.com/widget?id=348079441630461952&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 > Tutorial will be added soon.
 
 ## Requirements
