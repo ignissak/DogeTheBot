@@ -1,6 +1,6 @@
 # Commands
 > Will be added soon.
 
-`**8ball**`__
- *Description:* `Ask the magic ball!`__
- *Usage:* `8ball <arg>`__
+`**8ball**`<br />
+ *Description:* `Ask the magic ball!`<br />
+ *Usage:* `8ball <arg>`<br />
