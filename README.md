@@ -7,6 +7,8 @@
 - Discord.JS
 
 ## Features
+**Marked** - added to master version, and fully tested
+**Unmarked** - maybe added to beta version and being testing and coding
 - [x] Fun commands
 - [x] Moderation commands
 - [x] Misc commands
