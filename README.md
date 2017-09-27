@@ -10,5 +10,5 @@
 - [x] Fun commands
 - [x] Moderation commands
 - [x] Misc commands
-- [] Emoji informations
-- [] Event counter
+- [ ] Emoji informations
+- [ ] Event counter
