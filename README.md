@@ -12,3 +12,7 @@
 - [x] Misc commands
 - [ ] Emoji informations
 - [ ] Event counter
+
+## Installation
+You need **VPS** or some private server to run bot.
+> Another things will be added soon.
