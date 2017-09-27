@@ -18,3 +18,7 @@
 ## Installation
 You need **VPS** or some private server to run bot.
 > Another things will be added soon.
+
+## Commands & information
+Check out docs in folders!
+> More docs will be added soon.
