@@ -1,5 +1,5 @@
 # Commands
-> Will be added soon.
+> Another commands will be added soon.
 
 #### `8ball`<br />
  *Description:* `Ask the magic ball!`<br />
