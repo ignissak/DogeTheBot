@@ -5,3 +5,10 @@
 ## Requirements
 - Node.JS
 - Discord.JS
+
+## Features
+- [x] Fun commands
+- [x] Moderation commands
+- [x] Misc commands
+- [] Emoji informations
+- [] Event counter
