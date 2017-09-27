@@ -1,6 +1,6 @@
 # Commands
 > Will be added soon.
 
-`**8ball**`
-*Description:* `Ask the magic ball!`
+`**8ball**`\nl
+*Description:* `Ask the magic ball!`\nl
 *Usage:* `8ball <arg>`
